@@ -132,7 +132,9 @@ $c = \int_{0}^\infty t^n e^{-\frac{t}{\tau}} dt$
 
 ## Results
 
-![](results.png?raw=true)
+See results.png if image does not display.
+
+![](results.PNG?raw=true)
 
 <br>
 
