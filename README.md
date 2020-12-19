@@ -134,6 +134,8 @@ $c = \int_{0}^\infty t^n e^{-\frac{t}{\tau}} dt$
 
 ![](results.png?raw=true)
 
+<br>
+
 ## References
 
 - Ali Safa. (2020, July 19). Digit Classification Using a One-Hidden-Layer Spiking Neural Network (Version V1.3). Zenodo. http://doi.org/10.5281/zenodo.3951585
